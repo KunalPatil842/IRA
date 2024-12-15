@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+python-dotenv
+pathlib
+pyttsx3
+gtts
+pydub
